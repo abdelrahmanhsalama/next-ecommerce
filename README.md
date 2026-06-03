@@ -14,5 +14,5 @@ An ecommerce app built with TypeScript and Next.js. The app fetches and displays
 - Next.js.
 - Tailwind.
 - TanStack Query.
-- NextAuth.
 - Zustand.
+- NextAuth.js.
