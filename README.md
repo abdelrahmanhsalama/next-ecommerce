@@ -1,4 +1,4 @@
-An ecommerce app built with Next.js, TypeScript, and TailwindCSS. The app fetches and displays products from the DummyJSON API, featuring individual product pages and a cart and a wishlist feature.
+An ecommerce app built with TypeScript and Next.js. The app fetches and displays products from the DummyJSON API, featuring individual product pages, in addition to a cart and a wishlist features.
 
 **Features:**
 
@@ -10,8 +10,9 @@ An ecommerce app built with Next.js, TypeScript, and TailwindCSS. The app fetche
 
 **Tech Stack:**
 
-- Next.js.
 - TypeScript.
-- TanStack Query.
-- Zustand.
+- Next.js.
 - Tailwind.
+- TanStack Query.
+- NextAuth.
+- Zustand.
